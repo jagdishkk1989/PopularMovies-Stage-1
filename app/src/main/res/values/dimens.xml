@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="margin_label_top">7dp</dimen>
+    <dimen name="margin_recycler_view">10dp</dimen>
+    <dimen name="padding_parent_views">15dp</dimen>
+    <dimen name="margin_left_detail_views">15dp</dimen>
+
+</resources>
